@@ -4,12 +4,5 @@
 
 
 
+![Uploading image.png…]()
 
-
-
-
-
-
-
-
-      <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/532f7f85-3fc2-4f68-a029-58c55ac95ba7" />
